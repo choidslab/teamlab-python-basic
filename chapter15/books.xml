@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+  <books>
+    <book>
+        <author>Dooseop Choi</author>
+        <price format="dollar">31.95</price>
+        <pubdate>05/01/2001</pubdate>
+    </book>
+    <pubinfo>
+        <publisher>DSLab</publisher>
+        <state>WA</state>
+    </pubinfo>
+    <book>
+        <author>Dooseop Choi</author>
+        <price format="dollar">29.95</price>
+        <pubdate>05/01/2012</pubdate>
+    </book>
+    <pubinfo>
+        <publisher>DSLab</publisher>
+        <state>SeoungNam</state>
+    </pubinfo>
+  </books>
